@@ -1,0 +1,41 @@
+footer {
+    background-color: #333;
+    color: rgb(255, 255, 255);
+    padding: 3px;
+    bottom: 0;
+    width: 100%;
+}
+.container {
+  margin-left: 0;
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand img {
+  margin-right: 10px;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.navbar-nav .nav-item {
+  margin-right: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
